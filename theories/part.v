@@ -180,18 +180,18 @@ Notation "7" := Pr77 (at level 0) : prange_scope.
 Notation "8" := Pr88 (at level 0) : prange_scope.
 
 Notation "*" := Pr59.
-Notation "6 +" := Pr69 (at level 0, format "6 +") : prange_scope.
-Notation "7 +" := Pr79 (at level 0, format "7 +") : prange_scope.
-Notation "8 +" := Pr89 (at level 0, format "8 +") : prange_scope.
-Notation "9 +" := Pr99 (at level 0, format "9 +") : prange_scope.
+Notation "6+" := Pr69 (at level 0, format "6+") : prange_scope.
+Notation "7+" := Pr79 (at level 0, format "7+") : prange_scope.
+Notation "8+" := Pr89 (at level 0, format "8+") : prange_scope.
+Notation "9+" := Pr99 (at level 0, format "9+") : prange_scope.
 
-Notation "6 -" := Pr56 (at level 0, format "6 -") : prange_scope.
-Notation "7 -" := Pr57 (at level 0, format "7 -") : prange_scope.
-Notation "8 -" := Pr58 (at level 0, format "8 -") : prange_scope.
+Notation "6-" := Pr56 (at level 0, format "6-") : prange_scope.
+Notation "7-" := Pr57 (at level 0, format "7-") : prange_scope.
+Notation "8-" := Pr58 (at level 0, format "8-") : prange_scope.
 
-Notation "6 ? 7" := Pr67 (at level 0, format "6 ? 7") : prange_scope.
-Notation "6 ? 8" := Pr68 (at level 0, format "6 ? 8") : prange_scope.
-Notation "7 ? 8" := Pr78 (at level 0, format "7 ? 8") : prange_scope.
+Notation "6? 7" := Pr67 (at level 0, format "6? 7") : prange_scope.
+Notation "6? 8" := Pr68 (at level 0, format "6? 8") : prange_scope.
+Notation "7? 8" := Pr78 (at level 0, format "7? 8") : prange_scope.
 
 Bind Scope part_scope with part.
 
